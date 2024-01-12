@@ -62,7 +62,7 @@ const ProgressTracker = () => {
 
           <div className="flex-1"></div>
         </div>
-        <div className="pl-40 flex text-md text-center">
+        <div className="pl-8 sm:pl-20 lg:pl-40 flex text-md text-center">
           <div className="w-1/4">Login Details</div>
 
           <div className="pl-12 w-1/4">Restaurant Information</div>

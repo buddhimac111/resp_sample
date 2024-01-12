@@ -15,7 +15,7 @@ export default function Home() {
           />
         </div>
         <div className="w-full lg:w-[60%]">
-          <div className="ps-36 pt-20">
+          <div className="ps-12 md:ps-36 pt-10 md:pt-20">
             <p className="text-3xl font-bold text-[#f27c37]">Login Details</p>
             <p className="text-gray-500">Resper Sys.</p>
           </div>
