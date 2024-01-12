@@ -1,10 +1,11 @@
 import React from "react";
 
 const RegistrationForm = () => {
+  
   return (
-    <div className="p-8 mx-48">
+    <div className="p-8 md:mx-20 xl:mx-48 mx-10">
       <label htmlFor="name">
-        <p className="text-gray-500 font-semibold">Email</p>
+        <p className="text-gray-500 font-semibold">Name</p>
       </label>
       <input
         type="text"
